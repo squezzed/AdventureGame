@@ -1,5 +1,4 @@
 {
-  "name": "t_dirtpath",
   "spriteId": {
     "name": "s_dirtpath_tileset",
     "path": "sprites/s_dirtpath_tileset/s_dirtpath_tileset.yy",
@@ -29,7 +28,6 @@
         6,
         7,
         8,
-        9,
         10,
         11,
         12,
@@ -37,6 +35,7 @@
         14,
         15,
         16,
+        17,
       ],"closed_edge":false,"resourceVersion":"1.0","name":"autotile_1","tags":[],"resourceType":"GMAutoTileSet",},
   ],
   "tileAnimationFrames": [],
@@ -74,6 +73,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "t_dirtpath",
   "tags": [],
   "resourceType": "GMTileSet",
 }
