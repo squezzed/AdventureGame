@@ -1,3 +1,7 @@
-/// @description Sword State
+ /// @description Sword State
 
 image_speed = .5;
+
+if animation_hit_frame(3) {
+	state_ = player.move;	
+}

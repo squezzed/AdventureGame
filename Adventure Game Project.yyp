@@ -14,6 +14,7 @@
     {"id":{"name":"s_solid","path":"sprites/s_solid/s_solid.yy",},"order":3,},
     {"id":{"name":"apple_friction_to_movement","path":"scripts/apple_friction_to_movement/apple_friction_to_movement.yy",},"order":4,},
     {"id":{"name":"s_player_attack_right","path":"sprites/s_player_attack_right/s_player_attack_right.yy",},"order":3,},
+    {"id":{"name":"animation_hit_frame","path":"scripts/animation_hit_frame/animation_hit_frame.yy",},"order":6,},
     {"id":{"name":"s_dirtwall_tileset","path":"sprites/s_dirtwall_tileset/s_dirtwall_tileset.yy",},"order":1,},
     {"id":{"name":"move_movement_entity","path":"scripts/move_movement_entity/move_movement_entity.yy",},"order":1,},
     {"id":{"name":"s_player_attack_down","path":"sprites/s_player_attack_down/s_player_attack_down.yy",},"order":5,},
