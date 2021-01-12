@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_grass",
-    "path": "sprites/s_grass/s_grass.yy",
+    "name": "s_bomb_hitbox",
+    "path": "sprites/s_bomb_hitbox/s_bomb_hitbox.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_grass","path":"objects/o_grass/o_grass.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_hitbox","path":"objects/o_hitbox/o_hitbox.yy",},"parent":{"name":"o_grass","path":"objects/o_grass/o_grass.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_hitbox","path":"objects/o_hitbox/o_hitbox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"o_hitbox","path":"objects/o_hitbox/o_hitbox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_grass",
+  "name": "o_hitbox",
   "tags": [],
   "resourceType": "GMObject",
 }
