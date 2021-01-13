@@ -1,3 +1,6 @@
+// Script assets have changed for v2.3.0 see
+// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
+function create_hitbox(){
 var _sprite = argument0;
 var _x = argument1;
 var _y = argument2;
@@ -16,3 +19,5 @@ _hitbox.damage_ = _damage;
 _hitbox.knockback_ = _knockback;
 
 return _hitbox;
+
+}

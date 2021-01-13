@@ -1,7 +1,6 @@
 {
   "resources": [
     {"id":{"name":"s_player_roll_down","path":"sprites/s_player_roll_down/s_player_roll_down.yy",},"order":8,},
-    {"id":{"name":"create_hitbox","path":"scripts/create_hitbox/create_hitbox.yy",},"order":0,},
     {"id":{"name":"s_sword_hitbox","path":"sprites/s_sword_hitbox/s_sword_hitbox.yy",},"order":2,},
     {"id":{"name":"animation_hit_frame","path":"scripts/animation_hit_frame/animation_hit_frame.yy",},"order":4,},
     {"id":{"name":"s_player_attack_up","path":"sprites/s_player_attack_up/s_player_attack_up.yy",},"order":4,},
@@ -9,6 +8,7 @@
     {"id":{"name":"s_player_run_right","path":"sprites/s_player_run_right/s_player_run_right.yy",},"order":1,},
     {"id":{"name":"initialize_movement_entity","path":"scripts/initialize_movement_entity/initialize_movement_entity.yy",},"order":0,},
     {"id":{"name":"t_dirtwall","path":"tilesets/t_dirtwall/t_dirtwall.yy",},"order":0,},
+    {"id":{"name":"create_hitbox","path":"scripts/create_hitbox/create_hitbox.yy",},"order":1,},
     {"id":{"name":"s_player_roll_right","path":"sprites/s_player_roll_right/s_player_roll_right.yy",},"order":6,},
     {"id":{"name":"s_player_roll_up","path":"sprites/s_player_roll_up/s_player_roll_up.yy",},"order":7,},
     {"id":{"name":"set_movement","path":"scripts/set_movement/set_movement.yy",},"order":3,},
