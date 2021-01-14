@@ -10,7 +10,7 @@ if animation_hit_frame(1){
 	var _hitbox = create_hitbox(s_sword_hitbox, x, y, _angle, _life, [], _damage,  _knockback);	
 
 	switch direction_facing_ {
-		case dir.up: _hitbox.y -=4; break;
+		case dir.up: _hitbox.y -= 8; break;
 		default: _hitbox.y -= 8; break;
 	}
 }
