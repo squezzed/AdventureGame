@@ -22,6 +22,7 @@
     {"id":{"name":"apple_friction_to_movement","path":"scripts/apple_friction_to_movement/apple_friction_to_movement.yy",},"order":4,},
     {"id":{"name":"s_player_attack_right","path":"sprites/s_player_attack_right/s_player_attack_right.yy",},"order":3,},
     {"id":{"name":"s_dirtwall_tileset","path":"sprites/s_dirtwall_tileset/s_dirtwall_tileset.yy",},"order":1,},
+    {"id":{"name":"o_enemy","path":"objects/o_enemy/o_enemy.yy",},"order":0,},
     {"id":{"name":"s_grass","path":"sprites/s_grass/s_grass.yy",},"order":3,},
     {"id":{"name":"o_grass","path":"objects/o_grass/o_grass.yy",},"order":1,},
     {"id":{"name":"move_movement_entity","path":"scripts/move_movement_entity/move_movement_entity.yy",},"order":1,},
@@ -69,6 +70,7 @@
     {"folderPath":"folders/Sprites/World Sprite.yy","order":8,"resourceVersion":"1.0","name":"World Sprite","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Collision Sprites.yy","order":9,"resourceVersion":"1.0","name":"Collision Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts/Hitbox Scripts.yy","order":5,"resourceVersion":"1.0","name":"Hitbox Scripts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Enemies.yy","order":4,"resourceVersion":"1.0","name":"Enemies","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
