@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "s_player_run_down",
-    "path": "sprites/s_player_run_down/s_player_run_down.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

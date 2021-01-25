@@ -5,6 +5,7 @@
     {"id":{"name":"animation_hit_frame","path":"scripts/animation_hit_frame/animation_hit_frame.yy",},"order":4,},
     {"id":{"name":"s_player_attack_up","path":"sprites/s_player_attack_up/s_player_attack_up.yy",},"order":4,},
     {"id":{"name":"s_grass_background","path":"sprites/s_grass_background/s_grass_background.yy",},"order":2,},
+    {"id":{"name":"o_porcupine","path":"objects/o_porcupine/o_porcupine.yy",},"order":1,},
     {"id":{"name":"s_player_run_right","path":"sprites/s_player_run_right/s_player_run_right.yy",},"order":1,},
     {"id":{"name":"initialize_movement_entity","path":"scripts/initialize_movement_entity/initialize_movement_entity.yy",},"order":0,},
     {"id":{"name":"t_dirtwall","path":"tilesets/t_dirtwall/t_dirtwall.yy",},"order":0,},
@@ -27,6 +28,7 @@
     {"id":{"name":"o_grass","path":"objects/o_grass/o_grass.yy",},"order":1,},
     {"id":{"name":"move_movement_entity","path":"scripts/move_movement_entity/move_movement_entity.yy",},"order":1,},
     {"id":{"name":"s_player_attack_down","path":"sprites/s_player_attack_down/s_player_attack_down.yy",},"order":5,},
+    {"id":{"name":"s_porcupine_run","path":"sprites/s_porcupine_run/s_porcupine_run.yy",},"order":0,},
     {"id":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},"order":2,},
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},"order":0,},
     {"id":{"name":"o_hitbox","path":"objects/o_hitbox/o_hitbox.yy",},"order":3,},
@@ -71,6 +73,7 @@
     {"folderPath":"folders/Sprites/Collision Sprites.yy","order":9,"resourceVersion":"1.0","name":"Collision Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts/Hitbox Scripts.yy","order":5,"resourceVersion":"1.0","name":"Hitbox Scripts","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Enemies.yy","order":4,"resourceVersion":"1.0","name":"Enemies","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Enemy Sprites.yy","order":10,"resourceVersion":"1.0","name":"Enemy Sprites","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
