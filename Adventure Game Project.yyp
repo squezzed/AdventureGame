@@ -8,6 +8,7 @@
     {"id":{"name":"o_porcupine","path":"objects/o_porcupine/o_porcupine.yy",},"order":1,},
     {"id":{"name":"s_player_run_right","path":"sprites/s_player_run_right/s_player_run_right.yy",},"order":1,},
     {"id":{"name":"initialize_movement_entity","path":"scripts/initialize_movement_entity/initialize_movement_entity.yy",},"order":0,},
+    {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":5,},
     {"id":{"name":"t_dirtwall","path":"tilesets/t_dirtwall/t_dirtwall.yy",},"order":0,},
     {"id":{"name":"create_hitbox","path":"scripts/create_hitbox/create_hitbox.yy",},"order":1,},
     {"id":{"name":"s_player_roll_right","path":"sprites/s_player_roll_right/s_player_roll_right.yy",},"order":6,},
@@ -15,6 +16,7 @@
     {"id":{"name":"set_movement","path":"scripts/set_movement/set_movement.yy",},"order":3,},
     {"id":{"name":"s_player_run_down","path":"sprites/s_player_run_down/s_player_run_down.yy",},"order":0,},
     {"id":{"name":"s_dirtpath_tileset","path":"sprites/s_dirtpath_tileset/s_dirtpath_tileset.yy",},"order":0,},
+    {"id":{"name":"r_init","path":"rooms/r_init/r_init.yy",},"order":1,},
     {"id":{"name":"s_bomb_hitbox","path":"sprites/s_bomb_hitbox/s_bomb_hitbox.yy",},"order":1,},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":2,},
     {"id":{"name":"s_porcupine_attack","path":"sprites/s_porcupine_attack/s_porcupine_attack.yy",},"order":1,},
@@ -56,6 +58,7 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"r_init","path":"rooms/r_init/r_init.yy",},
     {"name":"r_base","path":"rooms/r_base/r_base.yy",},
   ],
   "Folders": [
