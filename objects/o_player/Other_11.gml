@@ -7,7 +7,7 @@ if animation_hit_frame(1){
 	var _life = 3;
 	var _damage = 1;
 	var _knockback = 8;
-	var _hitbox = create_hitbox(s_sword_hitbox, x, y, _angle, _life, [o_porcupine], _damage,  _knockback);	
+	var _hitbox = create_hitbox(s_sword_hitbox, x, y, _angle, _life, [o_porcupine, o_grass], _damage,  _knockback);	
 
 	switch direction_facing_ {
 		case dir.up: _hitbox.y -= 8; break;
