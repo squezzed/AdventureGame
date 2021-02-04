@@ -44,7 +44,7 @@
     "spriteId": {"name":"s_grass_effect","path":"sprites/s_grass_effect/s_grass_effect.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 15.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
