@@ -1,4 +1,4 @@
- /// @description Sword State
+/// @description Sword State
 
 image_speed = .5;
 
