@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Movement Scripts",
+    "path": "folders/Scripts/Movement Scripts.yy",
   },
   "resourceVersion": "1.0",
   "name": "approach",

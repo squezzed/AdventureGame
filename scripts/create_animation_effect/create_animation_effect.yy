@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Movement Scripts",
-    "path": "folders/Scripts/Movement Scripts.yy",
+    "name": "Effect Scripts",
+    "path": "folders/Scripts/Effect Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "animation_hit_frame",
+  "name": "create_animation_effect",
   "tags": [],
   "resourceType": "GMScript",
 }
