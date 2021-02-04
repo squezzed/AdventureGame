@@ -15,6 +15,7 @@
     {"id":{"name":"s_player_roll_up","path":"sprites/s_player_roll_up/s_player_roll_up.yy",},"order":7,},
     {"id":{"name":"set_movement","path":"scripts/set_movement/set_movement.yy",},"order":3,},
     {"id":{"name":"s_player_run_down","path":"sprites/s_player_run_down/s_player_run_down.yy",},"order":0,},
+    {"id":{"name":"o_input","path":"objects/o_input/o_input.yy",},"order":6,},
     {"id":{"name":"s_dirtpath_tileset","path":"sprites/s_dirtpath_tileset/s_dirtpath_tileset.yy",},"order":0,},
     {"id":{"name":"r_init","path":"rooms/r_init/r_init.yy",},"order":1,},
     {"id":{"name":"s_bomb_hitbox","path":"sprites/s_bomb_hitbox/s_bomb_hitbox.yy",},"order":1,},
