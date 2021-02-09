@@ -14,6 +14,7 @@
     {"id":{"name":"t_dirtwall","path":"tilesets/t_dirtwall/t_dirtwall.yy",},"order":0,},
     {"id":{"name":"create_hitbox","path":"scripts/create_hitbox/create_hitbox.yy",},"order":1,},
     {"id":{"name":"create_animation_effect","path":"scripts/create_animation_effect/create_animation_effect.yy",},"order":0,},
+    {"id":{"name":"draw_self_flash","path":"scripts/draw_self_flash/draw_self_flash.yy",},"order":1,},
     {"id":{"name":"s_player_roll_right","path":"sprites/s_player_roll_right/s_player_roll_right.yy",},"order":6,},
     {"id":{"name":"s_player_roll_up","path":"sprites/s_player_roll_up/s_player_roll_up.yy",},"order":7,},
     {"id":{"name":"set_movement","path":"scripts/set_movement/set_movement.yy",},"order":3,},
