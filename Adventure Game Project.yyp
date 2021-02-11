@@ -23,8 +23,9 @@
     {"id":{"name":"o_input","path":"objects/o_input/o_input.yy",},"order":6,},
     {"id":{"name":"s_dirtpath_tileset","path":"sprites/s_dirtpath_tileset/s_dirtpath_tileset.yy",},"order":0,},
     {"id":{"name":"r_init","path":"rooms/r_init/r_init.yy",},"order":1,},
+    {"id":{"name":"round_n","path":"scripts/round_n/round_n.yy",},"order":1,},
     {"id":{"name":"s_bomb_hitbox","path":"sprites/s_bomb_hitbox/s_bomb_hitbox.yy",},"order":1,},
-    {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":6,},
+    {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":0,},
     {"id":{"name":"s_porcupine_attack","path":"sprites/s_porcupine_attack/s_porcupine_attack.yy",},"order":1,},
     {"id":{"name":"porcupine_attack","path":"scripts/porcupine_attack/porcupine_attack.yy",},"order":2,},
     {"id":{"name":"t_dirtpath","path":"tilesets/t_dirtpath/t_dirtpath.yy",},"order":1,},
@@ -94,6 +95,7 @@
     {"folderPath":"folders/Scripts/Hurtbox Scripts.yy","order":6,"resourceVersion":"1.0","name":"Hurtbox Scripts","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts/Effect Scripts.yy","order":8,"resourceVersion":"1.0","name":"Effect Scripts","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Effect Sprites.yy","order":11,"resourceVersion":"1.0","name":"Effect Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scripts/Helper Scripts.yy","order":9,"resourceVersion":"1.0","name":"Helper Scripts","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},

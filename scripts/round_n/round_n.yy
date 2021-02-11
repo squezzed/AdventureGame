@@ -6,7 +6,7 @@
     "path": "folders/Scripts/Helper Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "approach",
+  "name": "round_n",
   "tags": [],
   "resourceType": "GMScript",
 }
