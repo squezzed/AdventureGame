@@ -9,6 +9,7 @@
     {"id":{"name":"o_porcupine","path":"objects/o_porcupine/o_porcupine.yy",},"order":1,},
     {"id":{"name":"s_player_run_right","path":"sprites/s_player_run_right/s_player_run_right.yy",},"order":1,},
     {"id":{"name":"s_grass_effect","path":"sprites/s_grass_effect/s_grass_effect.yy",},"order":0,},
+    {"id":{"name":"o_camera","path":"objects/o_camera/o_camera.yy",},"order":8,},
     {"id":{"name":"initialize_movement_entity","path":"scripts/initialize_movement_entity/initialize_movement_entity.yy",},"order":0,},
     {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":5,},
     {"id":{"name":"t_dirtwall","path":"tilesets/t_dirtwall/t_dirtwall.yy",},"order":0,},
