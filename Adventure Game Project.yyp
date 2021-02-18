@@ -25,7 +25,6 @@
     {"id":{"name":"o_input","path":"objects/o_input/o_input.yy",},"order":6,},
     {"id":{"name":"s_dirtpath_tileset","path":"sprites/s_dirtpath_tileset/s_dirtpath_tileset.yy",},"order":0,},
     {"id":{"name":"r_init","path":"rooms/r_init/r_init.yy",},"order":1,},
-    {"id":{"name":"Script17","path":"scripts/Script17/Script17.yy",},"order":9,},
     {"id":{"name":"round_n","path":"scripts/round_n/round_n.yy",},"order":1,},
     {"id":{"name":"s_bomb_hitbox","path":"sprites/s_bomb_hitbox/s_bomb_hitbox.yy",},"order":1,},
     {"id":{"name":"a_porcupine_attack","path":"sounds/a_porcupine_attack/a_porcupine_attack.yy",},"order":3,},
