@@ -56,6 +56,7 @@
     {"id":{"name":"o_hitbox","path":"objects/o_hitbox/o_hitbox.yy",},"order":3,},
     {"id":{"name":"add_movement_maxspeed","path":"scripts/add_movement_maxspeed/add_movement_maxspeed.yy",},"order":2,},
     {"id":{"name":"get_direction_facing","path":"scripts/get_direction_facing/get_direction_facing.yy",},"order":7,},
+    {"id":{"name":"a_collect_item","path":"sounds/a_collect_item/a_collect_item.yy",},"order":4,},
     {"id":{"name":"is_target","path":"scripts/is_target/is_target.yy",},"order":3,},
     {"id":{"name":"initialize_hurtbox_entity","path":"scripts/initialize_hurtbox_entity/initialize_hurtbox_entity.yy",},"order":0,},
     {"id":{"name":"r_base","path":"rooms/r_base/r_base.yy",},"order":0,},

@@ -2,4 +2,5 @@
 	instance_destroy();
 	create_animation_effect(s_gem_effect, x, y, random_range(.4, .8), true);
 	global.player_gems += 1;
+	audio_play_sound(a_collect_item, 8, false);
 } 
