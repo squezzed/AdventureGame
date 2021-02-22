@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_solid",
-    "path": "sprites/s_solid/s_solid.yy",
+    "name": "s_solid_hidden",
+    "path": "sprites/s_solid_hidden/s_solid_hidden.yy",
   },
   "solid": false,
   "visible": false,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/World Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_solid",
+  "name": "o_solid_hidden",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,7 +1,10 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "s_door_solid",
+    "path": "sprites/s_door_solid/s_door_solid.yy",
+  },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -18,17 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_game","path":"objects/o_game/o_game.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":2,"eventType":7,"collisionObjectId":null,"parent":{"name":"o_game","path":"objects/o_game/o_game.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_player","path":"objects/o_player/o_player.yy",},"parent":{"name":"o_door_solid","path":"objects/o_door_solid/o_door_solid.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Helper Objects",
-    "path": "folders/Objects/Helper Objects.yy",
+    "name": "World Objects",
+    "path": "folders/Objects/World Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_game",
+  "name": "o_door_solid",
   "tags": [],
   "resourceType": "GMObject",
 }

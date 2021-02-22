@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_gem_hidden_grass",
-    "path": "sprites/s_gem_hidden_grass/s_gem_hidden_grass.yy",
+    "name": "s_tree",
+    "path": "sprites/s_tree/s_tree.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_gem_hidden_grass","path":"objects/o_gem_hidden_grass/o_gem_hidden_grass.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_hitbox","path":"objects/o_hitbox/o_hitbox.yy",},"parent":{"name":"o_gem_hidden_grass","path":"objects/o_gem_hidden_grass/o_gem_hidden_grass.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_tree","path":"objects/o_tree/o_tree.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_hitbox","path":"objects/o_hitbox/o_hitbox.yy",},"parent":{"name":"o_tree","path":"objects/o_tree/o_tree.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects/World Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_gem_hidden_grass",
+  "name": "o_tree",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"70c83242-2a18-4c90-8777-14b1d9b8bbb4","path":"sprites/s_solid/s_solid.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"70c83242-2a18-4c90-8777-14b1d9b8bbb4","path":"sprites/s_solid/s_solid.yy",},"LayerId":{"name":"9bc3f664-b9a1-421c-97f4-51a93ba0a93a","path":"sprites/s_solid/s_solid.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"s_solid","path":"sprites/s_solid/s_solid.yy",},"resourceVersion":"1.0","name":"70c83242-2a18-4c90-8777-14b1d9b8bbb4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e1a9d83d-1524-409f-8156-a28c49b7a6e5","path":"sprites/s_solid_hidden/s_solid_hidden.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e1a9d83d-1524-409f-8156-a28c49b7a6e5","path":"sprites/s_solid_hidden/s_solid_hidden.yy",},"LayerId":{"name":"023c2b7b-91e8-4a8e-af42-37886f9e2c62","path":"sprites/s_solid_hidden/s_solid_hidden.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"s_solid_hidden","path":"sprites/s_solid_hidden/s_solid_hidden.yy",},"resourceVersion":"1.0","name":"e1a9d83d-1524-409f-8156-a28c49b7a6e5","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"s_solid","path":"sprites/s_solid/s_solid.yy",},
+    "spriteId": {"name":"s_solid_hidden","path":"sprites/s_solid_hidden/s_solid_hidden.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"fc6c5993-723f-42d2-95a2-2b01a35e5898","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"70c83242-2a18-4c90-8777-14b1d9b8bbb4","path":"sprites/s_solid/s_solid.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"02a75b5b-1d45-44e9-a108-b75b41bc7dd3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e1a9d83d-1524-409f-8156-a28c49b7a6e5","path":"sprites/s_solid_hidden/s_solid_hidden.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"s_solid","path":"sprites/s_solid/s_solid.yy",},
+    "parent": {"name":"s_solid_hidden","path":"sprites/s_solid_hidden/s_solid_hidden.yy",},
     "resourceVersion": "1.3",
-    "name": "s_solid",
+    "name": "s_solid_hidden",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":24.0,"displayName":"default","resourceVersion":"1.0","name":"9bc3f664-b9a1-421c-97f4-51a93ba0a93a","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":58.0,"displayName":"default","resourceVersion":"1.0","name":"023c2b7b-91e8-4a8e-af42-37886f9e2c62","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Collision Sprites",
-    "path": "folders/Sprites/Collision Sprites.yy",
+    "name": "World Sprite",
+    "path": "folders/Sprites/World Sprite.yy",
   },
   "resourceVersion": "1.0",
-  "name": "s_solid",
+  "name": "s_solid_hidden",
   "tags": [],
   "resourceType": "GMSprite",
 }
