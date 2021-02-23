@@ -152,6 +152,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":592.0,"y":160.0,"resourceVersion":"1.0","name":"inst_3D19FBA2","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_solid_hidden","path":"objects/o_solid_hidden/o_solid_hidden.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.1467098,"scaleX":1.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":128.0,"resourceVersion":"1.0","name":"inst_3C4D929F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_gem_hidden_grass","path":"objects/o_gem_hidden_grass/o_gem_hidden_grass.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":176.0,"resourceVersion":"1.0","name":"inst_55ADD0D3","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"o_bush","path":"objects/o_bush/o_bush.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":112.0,"y":96.0,"resourceVersion":"1.0","name":"inst_4433D9C6","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"t_dirtwall","path":"tilesets/t_dirtwall/t_dirtwall.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":20,"SerialiseHeight":12,"TileSerialiseData":[
 8,4,4,4,4,4,4,4,4,13,8,4,4,4,4,4,4,4,13,2147483648,
@@ -334,6 +335,7 @@
     {"name":"inst_3D19FBA2","path":"rooms/r_base/r_base.yy",},
     {"name":"inst_3C4D929F","path":"rooms/r_base/r_base.yy",},
     {"name":"inst_55ADD0D3","path":"rooms/r_base/r_base.yy",},
+    {"name":"inst_4433D9C6","path":"rooms/r_base/r_base.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
