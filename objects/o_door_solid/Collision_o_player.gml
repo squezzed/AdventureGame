@@ -3,7 +3,7 @@ if room = r_base {
 	audio_play_sound(a_room_transition, 8, false);
 }
 
-if room = r_forest {
+if room = r_base_2 {
 	room_goto(r_base);
 	audio_play_sound(a_room_transition, 8, false);
 }
