@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "s_door_solid",
-    "path": "sprites/s_door_solid/s_door_solid.yy",
+    "name": "s_start_position",
+    "path": "sprites/s_start_position/s_start_position.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -20,17 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_player","path":"objects/o_player/o_player.yy",},"parent":{"name":"o_door_solid","path":"objects/o_door_solid/o_door_solid.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "World Objects",
-    "path": "folders/Objects/World Objects.yy",
+    "name": "Collisions",
+    "path": "folders/Objects/Collisions.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_door_solid",
+  "name": "o_start_position",
   "tags": [],
   "resourceType": "GMObject",
 }
