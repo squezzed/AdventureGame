@@ -1,3 +1,3 @@
 global.player_start_position = other.start_; 
-persistent = false;
+persistent = true;
 room_goto(other.room_);

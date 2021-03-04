@@ -9,7 +9,7 @@
     "name": "s_player_run_down",
     "path": "sprites/s_player_run_down/s_player_run_down.yy",
   },
-  "persistent": false,
+  "persistent": true,
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,

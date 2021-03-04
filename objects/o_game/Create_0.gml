@@ -9,4 +9,3 @@ global.player_gems = 0;
 global.player_start_position = i_game_start;
 
 audio_play_sound(a_music, 10, true);
-
