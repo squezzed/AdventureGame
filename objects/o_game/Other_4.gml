@@ -1,4 +1,3 @@
-
 if instance_exists(global.player_start_position) {
 	if instance_exists(o_player) {
 		o_player.persistent = false;
