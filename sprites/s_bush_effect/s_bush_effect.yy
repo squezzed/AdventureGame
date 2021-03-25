@@ -89,7 +89,7 @@
   ],
   "parent": {
     "name": "Effect Sprites",
-    "path": "folders/Sprites/Effect Sprites.yy",
+    "path": "folders/Shaders/Sprites/Effect Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_bush_effect",

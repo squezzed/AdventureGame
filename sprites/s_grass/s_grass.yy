@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "World Sprite",
-    "path": "folders/Sprites/World Sprite.yy",
+    "path": "folders/Shaders/Sprites/World Sprite.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_grass",

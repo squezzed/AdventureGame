@@ -1,4 +1,4 @@
-z_ + z_speed_;
+z_ += z_speed_;
 z_speed_ += gravity_;
 if z_ >= 0 {
 	can_pickup_ = true;

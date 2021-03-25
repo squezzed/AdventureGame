@@ -85,7 +85,7 @@
   ],
   "parent": {
     "name": "Player Sprites",
-    "path": "folders/Sprites/Player Sprites.yy",
+    "path": "folders/Shaders/Sprites/Player Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_player_roll_right",

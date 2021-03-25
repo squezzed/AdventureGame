@@ -77,7 +77,7 @@
   ],
   "parent": {
     "name": "Enemy Sprites",
-    "path": "folders/Sprites/Enemy Sprites.yy",
+    "path": "folders/Shaders/Sprites/Enemy Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_porcupine_run",
