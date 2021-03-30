@@ -35,7 +35,7 @@
     "spriteId": {"name":"s_heart_ui","path":"sprites/s_heart_ui/s_heart_ui.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 2.0,
+    "playbackSpeed": 15.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
