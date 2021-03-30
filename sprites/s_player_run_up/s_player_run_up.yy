@@ -89,7 +89,7 @@
   ],
   "parent": {
     "name": "Player Sprites",
-    "path": "folders/Shaders/Sprites/Player Sprites.yy",
+    "path": "folders/Sprites/Player Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_player_run_up",

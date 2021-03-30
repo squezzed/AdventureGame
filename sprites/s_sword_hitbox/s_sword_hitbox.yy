@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Collision Sprites",
-    "path": "folders/Shaders/Sprites/Collision Sprites.yy",
+    "path": "folders/Sprites/Collision Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_sword_hitbox",

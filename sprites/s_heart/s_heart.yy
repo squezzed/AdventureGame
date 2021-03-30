@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Items",
-    "path": "folders/Shaders/Sprites/Items.yy",
+    "path": "folders/Sprites/Items.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_heart",

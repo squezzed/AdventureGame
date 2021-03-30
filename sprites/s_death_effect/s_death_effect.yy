@@ -105,7 +105,7 @@
   ],
   "parent": {
     "name": "Effect Sprites",
-    "path": "folders/Shaders/Sprites/Effect Sprites.yy",
+    "path": "folders/Sprites/Effect Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_death_effect",
