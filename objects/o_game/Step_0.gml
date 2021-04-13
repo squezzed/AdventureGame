@@ -11,6 +11,7 @@ if o_input.pause_pressed_ {
 		paused_sprite_ = sprite_create_from_surface(application_surface, 0, 0, view_wport[0], view_hport[0], false, false, 0, 0);
 		instance_deactivate_all(true);
 		instance_activate_object(o_input);
+		instance_activate_object(o_player);
 		audio_play_sound(a_pause, 5, false);
 	}
 }
